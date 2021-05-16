@@ -1,0 +1,10 @@
+.post{
+    background-color: rgb(199, 174, 174);
+    width: auto;
+    min-height: 100px;
+    margin-top: 20px;
+    border-width: 10px;
+    border-color: brown;
+    height: max-content;
+    
+}
